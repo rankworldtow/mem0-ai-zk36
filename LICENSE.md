@@ -1,4 +1,4 @@
-# 
+# Inteligente Mem0 extensões. Com sincronização em nuvem e análise de documentos — otimizado para máximo desempenho e eficiência.
 
 
 
